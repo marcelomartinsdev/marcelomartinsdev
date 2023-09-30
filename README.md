@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="URL_DA_SUA_IMAGEM_DE_PERFIL" />
+<img align="center" justify="center" style="margin-bottom:100px" width=50% src="https://avatars.githubusercontent.com/u/61503991?v=4" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Sou um aluno de Ciência da Computação, apaixonado por programação desde 2018, quando iniciei minha jornada na faculdade. Atualmente, estou cursando um curso chamado Go Expert da Full Cycle, com o objetivo de expandir meus conhecimentos fundamentais em linguagens de programação e aprimorar minhas habilidades. Hoje, sou um programador júnior focado no desenvolvimento web.</p>&nbsp;
@@ -43,7 +43,5 @@
 
 <div> 
 <a href="https://www.linkedin.com/in/marcelo-martins-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="marcelomartinsdev@gmail.com"> <img src="https://img.shields.io/badge/-E-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</div>&nbsp;&nbsp;
-
+<a href="mailto:email@provedor.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit"></a> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
