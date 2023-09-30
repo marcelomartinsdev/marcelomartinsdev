@@ -4,8 +4,8 @@
 <p align="center">Sou um aluno de Ciência da Computação, apaixonado por programação desde 2018, quando iniciei minha jornada na faculdade. Atualmente, estou cursando um curso chamado Go Expert da Full Cycle, com o objetivo de expandir meus conhecimentos fundamentais em linguagens de programação e aprimorar minhas habilidades. Hoje, sou um programador júnior focado no desenvolvimento web.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_GITHUB&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-SEU_USUARIO_GITHUB.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcelomartinsdev&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-marcelomartinsdev.vercel.app/api/top-langs/?username=marcelomartinsdev&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
