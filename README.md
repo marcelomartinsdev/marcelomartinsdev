@@ -1,7 +1,7 @@
 ![Foto de Perfil](https://media.licdn.com/dms/image/C4D03AQFrfZAwtvZFNw/profile-displayphoto-shrink_200_200/0/1604527267358?e=1701302400&v=beta&t=FnqVu_7-fjpeAISU-BXq96SEADeAjgaLnnNCtLK3W3M)
 
 # 💫 Sobre Mim
-Sou um aluno de Ciência da Computação, apaixonado por programação desde 2018, quando iniciei minha jornada na faculdade. Minha paixão pela tecnologia e pelo desenvolvimento web cresceu instantaneamente. Atualmente após meu primeiro ciclo como desenvolvedor na MSX Contents estou cursando o Go Expert da Full Cycle e estudando para melhorar meus fundamentos.
+Sou um aluno de Ciência da Computação, apaixonado por programação desde 2018, quando iniciei minha jornada na faculdade. Minha paixão pela tecnologia e pelo desenvolvimento web cresceu instantaneamente. Atualmente após meu primeiro ciclo como desenvolvedor na MSX Contents estou aprendendo Java e Spring para melhorar meus fundamentos.
 
 ## 🌐 Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcelomartt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelomartinsdev) 
